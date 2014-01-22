@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Event Sender</string>
+    <string name="action_settings">Settings</string>
+    <string name="go_button">Go!</string>
+    <string name="server_ip">Server IP:</string>
+    <string name="cannot_connect_to_server">Cannot connect to the server.</string>
+    <string name="cannot_send_event">Cannot send an event.</string>
+    <string name="sent_event">Sent event!</string>
+    <string name="cannot_close_connection">Cannot close connection to the server.</string>
+
+</resources>

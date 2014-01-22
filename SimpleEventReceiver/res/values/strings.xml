@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleEventReceiver</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="server_ip">Sever IP:</string>
+    <string name="could_not_initialize_server">Could not initialize server.</string>
+    <string name="error_occurred">An error has occurred.</string>
+    <string name="cannot_close_resource">Cannot close a resource.</string>
+    <string name="vibration_error">An error has occred.</string>
+    <string name="vibration_time">Vibration time:</string>
+    <string name="vibration_how_many">How many times:</string>
+
+</resources>
